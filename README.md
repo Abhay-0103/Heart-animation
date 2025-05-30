@@ -1,5 +1,3 @@
----
-
 # 💓 Heart Animation
 
 A simple and elegant heart animation built with HTML, CSS, and JavaScript. Perfect for learning basic web animation or adding a charming visual to your web projects.
